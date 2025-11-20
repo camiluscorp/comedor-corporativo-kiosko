@@ -66,7 +66,13 @@ En la carpeta de tu proyecto, crea o edita el archivo `.env.local`:
 GEMINI_API_KEY=TU_CLAVE_AQUI
 ```
 
+---
+
 ## 5. Finalmente ejecuta la app
 
+Luego desde el terminal en la raiz del proyecto ejecuta:
+
+```
 npm install
 npm run dev
+```
