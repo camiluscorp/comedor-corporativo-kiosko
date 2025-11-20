@@ -50,7 +50,7 @@ Dentro de AI Studio:
 2. Elige si deseas:
    - Crear un **nuevo proyecto**, o  
    - Usar un **proyecto existente de Google Cloud**.
-3. Se generará una clave del tipo:
+3. Se generará una clave del tipo: AIza.................
 
 
 **Esa es tu `GEMINI_API_KEY`.**  
@@ -64,7 +64,7 @@ En la carpeta de tu proyecto, crea o edita el archivo `.env.local`:
 
 ```env
 GEMINI_API_KEY=TU_CLAVE_AQUI
-
+```
 
 ## 5. Finalmente ejecuta la app
 
